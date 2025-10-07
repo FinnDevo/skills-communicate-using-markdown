@@ -1,3 +1,8 @@
 # Pew Pew
 
 ![Image of stormtroopcat](https://octodex.github.com/images/stormtroopocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
